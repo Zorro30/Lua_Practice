@@ -3,7 +3,7 @@ print('Hello World!')
 ---------->
 -- Comment in Lua
 
-[[]
+--[[
     Multiline Comment
     in Lua.
 ]]
